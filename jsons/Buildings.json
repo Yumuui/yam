@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
+		"name": "Fortrar",
+		"replaces": "Armory",
 		"uniqueTo": "Tarasume",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
+		"happiness": 10,
+		"culture": 5,
+		"science": 24,
 		"maintenance": 96,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
